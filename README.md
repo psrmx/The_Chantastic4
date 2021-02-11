@@ -3,4 +3,4 @@ Yes, the class name was machine intelligence. May have been an attempt to merge 
 
 Each directory contains the exercise sheet, the data, and our solution.
 
-All credits to: Chantastic 4.
+All credits to: The Chantastic 4.
